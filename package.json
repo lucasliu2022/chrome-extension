@@ -1,0 +1,11 @@
+{
+  "name": "chrome-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucasliu2022/chrome-extension.git",
+  "author": "lucas <lucas@phala.network>",
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-types": "^0.1.216"
+  }
+}
